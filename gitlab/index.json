@@ -3,11 +3,16 @@
     "backend": {
         "imageid": "ubuntu"
     },
-    "steps": [
-        {
-            "title": "Set up your environment",
-            "text": "step1/text.md"
-        }
-    ]
+    "details": {
+        "intro": {
+            "text": "intro.md"
+        },
+        "steps": [
+            {
+                "title": "Set up your environment",
+                "text": "step1/text.md"
+            }
+        ]
+    }
 
 }
