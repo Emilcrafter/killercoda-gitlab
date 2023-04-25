@@ -1,6 +1,6 @@
 {
     "title":"GitLab and GitLab actions",
     "backend": {
-        "imageId": "ubuntu"
+        "imageid": "ubuntu"
     }
 }
