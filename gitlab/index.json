@@ -1,6 +1,13 @@
 {
-    "title":"GitLab and GitLab actions",
+    "title":"GitLab and GitLab runner",
     "backend": {
         "imageid": "ubuntu"
-    }
+    },
+    "steps": [
+        {
+            "title": "Set up your environment",
+            "text": "step1/text.md"
+        }
+    ]
+
 }
